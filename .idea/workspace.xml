@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fb7a25b-11dc-4195-aba4-17650081c85d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/ReplaceCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/SortArrayListDescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalinterface/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalinterface/FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalinterface/FunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/DisplayMobileNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/MergedTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/MinAndMaxList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/OtpGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numbers/UnmodifiableList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/IdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/SortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stremapi/FindEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/RemoveSpecialCharacter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bd9KdhDJYgfmqm2cybmybTTFWW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.DisplayMobileNumber.executor": "Run",
+    "Application.FindEvenNumbers.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergedTwoList.executor": "Run",
+    "Application.MinAndMaxList.executor": "Run",
+    "Application.OtpGenerator.executor": "Run",
+    "Application.RemoveSpecialCharacter.executor": "Run",
+    "Application.ReplaceCharacter.executor": "Run",
+    "Application.SortArrayListDescendingOrder.executor": "Run",
+    "Application.SortExample.executor": "Run",
+    "Application.UnmodifiableList.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SortExample">
+    <configuration name="DisplayMobileNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.DisplayMobileNumber" />
+      <module name="Java-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergedTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.MergedTwoList" />
+      <module name="Java-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinAndMaxList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.MinAndMaxList" />
+      <module name="Java-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.SortExample" />
+      <module name="Java-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnmodifiableList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numbers.UnmodifiableList" />
+      <module name="Java-Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortExample" />
+        <item itemvalue="Application.MinAndMaxList" />
+        <item itemvalue="Application.UnmodifiableList" />
+        <item itemvalue="Application.MergedTwoList" />
+        <item itemvalue="Application.DisplayMobileNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-8336523bb0d9-b81783ad" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fb7a25b-11dc-4195-aba4-17650081c85d" name="Changes" comment="" />
+      <created>1706534025791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706534025791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="68a2c9f3-ceb8-4e2a-9173-3a2ba85b17ed" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="68a2c9f3-ceb8-4e2a-9173-3a2ba85b17ed">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

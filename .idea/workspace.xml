@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fb7a25b-11dc-4195-aba4-17650081c85d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Interview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/ReplaceCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/SortArrayListDescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalinterface/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalinterface/FunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionalinterface/FunctionalInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numbers/DisplayMobileNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numbers/MergedTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numbers/MinAndMaxList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numbers/OtpGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numbers/UnmodifiableList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/IdComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/NameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/SortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stremapi/FindEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/RemoveSpecialCharacter.java" afterDir="false" />
+    <list default="true" id="5fb7a25b-11dc-4195-aba4-17650081c85d" name="Changes" comment="added">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +22,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -73,7 +57,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java-Interview-Questions/Java-Interview"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -174,6 +159,31 @@
       <option name="presentableId" value="Default" />
       <updated>1706534025791</updated>
     </task>
+    <task id="LOCAL-00001" summary="added">
+      <option name="closed" value="true" />
+      <created>1706610321181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706610321181</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added">
+      <option name="closed" value="true" />
+      <created>1706610361987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706610361987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added">
+      <option name="closed" value="true" />
+      <created>1706610569446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706610569447</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,5 +226,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
 </project>
